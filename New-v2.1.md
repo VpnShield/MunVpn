@@ -1,24 +1,47 @@
-{
-"Title": "بسه دیگه تا کی؟ 😫",
-"Description": "😒 مطمعنم توام کلافه ای از حرفای بقیه که چرا کار نمیکنی؟ درامدت چقدره؟ کجا کار میکنی؟\nهوففففففففففف🙇‍♀\n\n- بنظرم یه لحظه این کانال و نگاه کن ، چون هم درامدت دلاری و سرو سامون پیدا میکنی هم .... (البته اگه وضعت خوبه بدون عضو شدن به برنامه برگرد)",
-"Link": "tg://join?invite=XgU-SOALvdFhOThk",
-"ColorWave": "#00E5FF",
-"Color": "#00E5FF",
-"ColorWaveTwo": "#00B8D4",
+گگ{
+
+"Title": "☆  بروزرسانی جدید  ☆",
+
+"Description": "سلام دوست عزیزم 🌺\n\n- این نسخه از کار افتاده ، برای استفاده از Tunnel پرسرعت نسخه جدید مود و منتشر شده رو از کانال تلگرام ما دریافت کنید 🤍",
+
+"Link": "tg://resolve?domain=Farsroid_Club",
+
+"ColorWave": "#FFFF00",
+
+"Color": "#FFFF00",
+
+"ColorWaveTwo": "#FFD600",
+
 "ColorBackGround": "#ffffff",
+
 "TitleGravity": "center",
+
 "MessageGravity": "center",
+
 "ColorMessage": "#ff323232",
+
 "ColorTitle": "#ff111111",
+
 "ColorBtn": "#ffffff",
+
 "ColorBtnBg": "#00a043",
+
 "ColorBtnCancell": "#ffffff",
+
 "ColorBtnCancellBg": "#e90000",
+
 "Cancellable": "false",
+
 "MessageID": "1",
+
 "ShowTime": "999",
-"Button": "  عضویت   ",
-"ButtonCancell": "  ",
-"Closure": "true",
+
+"Button": "  دریافت نسخه جدید  ",
+
+"ButtonCancell": " بعدا ",
+
+"Closure": "false",
+
 "Show": "on"
+
 }
